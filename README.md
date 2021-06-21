@@ -1,5 +1,5 @@
 # A Java/Maven/JUnit HelloWorld example
-Hello world Example
+Hello world Example using poll scm in jenkins
 
 A „Hello World!” sample written in Java using Maven for the build, that showcases a few very simple tests.
 
